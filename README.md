@@ -12,5 +12,8 @@ Chromeのコンソールにぶち込むと自動的にタイピングしてく�
 ### HSP
 起動して３秒後に自動的にタイピングする。HSP3.4b以降で動作。
 
+### バッチファイル + PowerShell
+起動して３秒後に自動的にタイピングする。
+
 ## こうなる
 ![image](https://pbs.twimg.com/media/DTGn96CVoAYHMEP.jpg "ドヤァ");
