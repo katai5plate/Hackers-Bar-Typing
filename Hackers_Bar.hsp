@@ -8,5 +8,3 @@ if b{e 16}e a:e a,0,2:if b{e 16,0,2}:return
 #global
 t="HACKERS BAR":wait 300:repeat strlen(t):i=cnt
 x=peek(t,i):y=0:if i=0|x=66{y=1}k x,y:loop:end
-
-
